@@ -1,0 +1,20 @@
+{
+  "short_name": "Spotify Search App",
+  "name": "Simple Spotify Search App",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/sillyangel/sillyangel.github.io/5767cf77ca25f2eba7e9b901120d906b91375794/icons/icon128.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sillyangel/sillyangel.github.io/5767cf77ca25f2eba7e9b901120d906b91375794/icons/icon128.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
